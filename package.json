@@ -1,0 +1,30 @@
+{
+  "name": "onstuimig-laravel-mix-twing-to-html",
+  "version": "1.0.0",
+  "description": "A Laravel Mix extension to convert twig files to html using twing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onstuimig/onstuimig-laravel-mix-twing-to-html.git"
+  },
+  "keywords": [],
+  "author": "Onstuimig",
+  "license": "MIT",
+  "prettier": {
+    "singleQuote": true,
+    "semi": true
+  },
+  "bugs": {
+    "url": "https://github.com/onstuimig/onstuimig-laravel-mix-twing-to-html/issues"
+  },
+  "homepage": "https://github.com/onstuimig/onstuimig-laravel-mix-twing-to-html#readme",
+  "dependencies": {
+    "globby": "^10.0.1"
+  },
+  "peerDependencies": {
+    "laravel-mix": "^5.0.0"
+  }
+}
