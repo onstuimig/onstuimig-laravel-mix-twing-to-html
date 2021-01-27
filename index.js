@@ -5,7 +5,7 @@ const assign = Object.assign;
 
 class OnstuimigTwingToHtml {
   dependencies() {
-    return ["html-replace-webpack-plugin", "html-webpack-plugin", "onstuimig-twing-loader", "twing"];
+    return ["html-replace-webpack-plugin", "html-webpack-plugin", "html-loader", "onstuimig-twing-loader", "twing"];
   }
 
   register(config) {

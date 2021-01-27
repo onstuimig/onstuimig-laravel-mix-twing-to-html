@@ -25,6 +25,6 @@
     "globby": "^10.0.1"
   },
   "peerDependencies": {
-    "laravel-mix": "^5.0.0"
+    "laravel-mix": "^4.0.0"
   }
 }
