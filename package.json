@@ -1,6 +1,6 @@
 {
   "name": "onstuimig-laravel-mix-twing-to-html",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Laravel Mix extension to convert twig files to html using twing",
   "main": "index.js",
   "scripts": {
